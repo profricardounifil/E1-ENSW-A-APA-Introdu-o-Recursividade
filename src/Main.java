@@ -18,7 +18,7 @@ public class Main {
         return n;
     }
 
-    public static int converterNumeroNaturalR(int n, Scanner scanner) {7
+    public static int converterNumeroNaturalR(int n, Scanner scanner) {
         if(n >= 0) {
             return n;
         }
